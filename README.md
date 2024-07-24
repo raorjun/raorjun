@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Nikhil, a passionate developer and robotics enthusiast.
+I'm Arjun, a passionate developer and robotics enthusiast.
 
-![Profile views](https://gpvc.arturio.dev/your-github-username)
+![Profile views](https://gpvc.arturio.dev/raorjun)
 
 ---
 
 ### 📫 Connect with me:
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/imnotarjun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-profile)
