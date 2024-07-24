@@ -2,7 +2,7 @@
 
 I'm Arjun, a passionate developer and robotics enthusiast.
 
-![Profile Views](https://komarev.com/ghpvc/?raorjun&style=flat-square)
+![](https://komarev.com/ghpvc/?username=raorjun&style=flat-square)
 
 ---
 
