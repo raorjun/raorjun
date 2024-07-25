@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Arjun, a passionate developer and robotics enthusiast.
+I'm Arjun.
 
 ![](https://komarev.com/ghpvc/?username=raorjun&style=flat-square&base=27)
 
