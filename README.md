@@ -35,7 +35,7 @@ I'm Arjun.
 
 ### 🏆 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=raorjun&show_icons=true&theme=nightowl)
 
 ---
 
