@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raorjun&label=Profile%20views&color=0e75b6&style=flat" alt="raorjun" /> </p>
 
-- 🔭 I’m currently working on **autonomous racecars at MIT.**
+- 🔭 I’m currently working on **enabling autonomous cars to clear a path for emergency vehicles using fiducial markers at MIT.**
 
-- 🌱 I’m currently learning **google-ortools, databases & SQL, deep learning with PyTorch & TensorFlow**
+- 🌱 I’m currently learning **google-ortools, databases & SQL, deep learning with PyTorch & TensorFlow.**
 
-- 📫 How to reach me **rao.rjun@gmail.com**
+- 📫 How to reach me: **rao.rjun@gmail.com**
 
 - ⚡ Fun fact **I don't think milk belongs in cereal. I don't think cereal belongs either.**
 
