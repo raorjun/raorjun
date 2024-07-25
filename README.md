@@ -48,7 +48,7 @@ I'm Arjun.
 
 ### 📊 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raorjun&theme=nightowl)
 
 ---
 
