@@ -27,7 +27,7 @@ I'm Arjun.
 ### 🎧 Spotify Recently Played
 
 <!-- Replace with your own data using a tool or API -->
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username)
+![Recently Played]((https://spotify-recently-played-readme.vercel.app/api?count=5))
 
 ---
 
