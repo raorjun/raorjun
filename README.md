@@ -35,7 +35,7 @@ I'm Arjun.
 
 ### 🏆 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=raorjun&show_icons=true&theme=nightowl)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=raorjun&show_icons=true&theme=nightowl)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raorjun&theme=nightowl)
 
 ---
 
@@ -43,12 +43,6 @@ I'm Arjun.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo&theme=radical)](https://github.com/your-github-username/your-repo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo&theme=radical)](https://github.com/your-github-username/your-repo)
-
----
-
-### 📊 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raorjun&theme=nightowl)
 
 ---
 
