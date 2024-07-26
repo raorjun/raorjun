@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raorjun&show_icons=true&locale=en" alt="raorjun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raorjun&theme=default" alt="raorjun" /></p>
-
-![GitHub Snake Animation](https://github.com/raorjun/raorjun/raw/output/github-contribution-grid-snake.svg)
