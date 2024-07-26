@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **google-ortools, databases & SQL, deep learning with PyTorch & TensorFlow.**
 
-- 📫 How to reach me: **rao.rjun@gmail.com**
+- 📫 How to reach me: **raorjun[at]gmail[dot]com**
 
 - ⚡ Fun fact **I don't think milk belongs in cereal. I don't think cereal belongs either.**
 
