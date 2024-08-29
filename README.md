@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving the independent mobility of visually impaired individuals using wearable technology.**
 
-- 🌱 I’m currently learning **google-ortools, databases & SQL, deep learning with PyTorch & TensorFlow.**
+- 🌱 I’m currently learning **Rust, C++, deep learning with PyTorch & TensorFlow.**
 
 - 📫 How to reach me: **rao.rjun@gmail.com**
 
