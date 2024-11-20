@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raorjun&label=Profile%20views&color=0e75b6&style=flat" alt="raorjun" /> </p>
 
-- 🔭 I’m currently working on **improving the independent mobility of visually impaired individuals using wearable technology.**
-
-- 🌱 I’m currently learning **Rust, C++, deep learning with PyTorch & TensorFlow.**
-
 - 📫 How to reach me: **rao.rjun@gmail.com**
 
 - ⚡ Fun fact **I don't think milk belongs in cereal. I don't think cereal belongs either.**
