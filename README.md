@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Rao</h1>
-<h3 align="center">A high school developer from Apex, North Carolina, passionate about robotics and applied mathematics. Amateur photographer.</h3>
+<h3 align="center">A high school developer from Apex, North Carolina, passionate about robotics and applied mathematics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raorjun&label=Profile%20views&color=0e75b6&style=flat" alt="raorjun" /> </p>
 
