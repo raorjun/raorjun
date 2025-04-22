@@ -21,16 +21,14 @@
   <a href="https://linkedin.com/in/rao-arjun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rao-arjun" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/19096016" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19096016" height="30" width="40" /></a>
   <a href="https://kaggle.com/raorjun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raorjun" height="30" width="40" /></a>
-  <a href="https://instagram.com/rao.rjun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rao.rjun" height="30" width="40" /></a>
 </p>
 
 ---
 
 ### 🚀 Highlight Projects
-- 🔦 **StepLight** — Wearable ML system for visually impaired road crossing assistance  
-- 🏎️ **F1 Reliability Model** — OR-based component optimization simulator  
+- 🔦 **StepLight** — Wearable ML system for visually impaired road crossing assistance
 - 📸 **Persistent Homology + FFT** — Feature extraction for noisy image classification  
-- 🚘 **Autonomous RACECAR** — ROS2, LIDAR, and RL-based self-driving research at Beaver Works
+- 🚘 **Autonomous RACECAR** — Fiducial-based emergency DLT emergency yielding self-driving research at Beaver Works
 
 ---
 
@@ -53,23 +51,23 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raorjun&show_icons=true&locale=en&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raorjun&show_icons=true&locale=en&theme=default" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raorjun&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raorjun&layout=compact&theme=default" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raorjun&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raorjun&theme=default" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raorjun&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raorjun&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raorjun&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raorjun&theme=github-light" />
 </p>
