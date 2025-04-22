@@ -59,8 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raorjun&show_icons=true&locale=en&theme=default" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raorjun&layout=compact&theme=default" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raorjun&theme=default" />
 </p>
 
 ---
